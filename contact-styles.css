@@ -76,3 +76,19 @@ a {
     text-shadow: #4b5556;
 }
 
+.picture {
+    height: 50%;
+    width: 50%;
+    display: flex;
+    justify-content: right;
+}
+
+.contact {
+    font-size: 50px;
+    padding-top: 25%;
+    justify-content: center;
+    align-content: center;
+    padding-left: 10px;
+    font-family: Dancing Script;
+
+}
